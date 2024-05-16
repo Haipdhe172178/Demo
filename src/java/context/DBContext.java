@@ -9,5 +9,6 @@ import java.lang.*;
 
 public class DBContext {
     String name;
-    
+    String dob;
+    String gender;
 }
